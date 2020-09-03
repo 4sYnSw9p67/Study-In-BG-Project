@@ -1,0 +1,33 @@
+.avatar-img {
+    border-radius: 50%;
+}
+
+.text-blue {
+    color: #2c3e50;
+}
+
+.school-img {
+    height: 100%;
+    width: 100%;
+    margin-top: -12%;
+}
+
+.utp-img {
+    height: 30%;
+    width: 30%;
+    position: relative;
+    top: -450px;
+    left: 35px;
+}
+
+.bg-important {
+    background-color: #ed207b;
+}
+
+.bg-orange {
+    background-color: #f48d66;
+}
+
+.bg-blue {
+    background-color: #2c3e50;
+}
